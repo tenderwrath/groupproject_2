@@ -2,7 +2,7 @@
     "response": {
         "count": 4218,
         "items": [
-            {
+            { 
                 "inner_type": "wall_wallpost",
                 "ads_easy_promote": {
                     "type": 2,
