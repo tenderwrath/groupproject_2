@@ -6,7 +6,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC 
+from selenium.webdriver.support import expected_conditions as EC
+import re
 
  
 csv_file = "groupproject_2/parsed/wb_data.csv" 
@@ -167,3 +168,45 @@ total_new = 0
 csv_file, writer = open_csv_for_append(csv_file)
  
 logger.info(f"Всего ссылок для обработки: {len(links)}")
+
+
+
+for search_url in links:
+    logger.info('Обрабатываем ссылку: ' + search_url)
+
+    driver.get(search_url)
+    time.sleep(3)
+    logger.info('Прокручиваем страницу вниз')
+    scroll_page_to_bottom(driver)
+    time.sleep(2)
+    cards = driver.find_elements(By.CSS_SELECTOR, "article.product-card")
+    logger.info('Найдено карточек: ' + len(cards))
+
+    if not cards:
+        logger.warning('Карточек нет, переходим дальше')
+        continue
+
+    added_for_url = 0
+    skipped_for_url = 0
+
+    for i, card in enumerate(cards, start=1): 
+        data = get_card_data(card, search_url)
+
+        if not data['id']:
+            continue
+        unique_key = (data["id"], data["search_url"])
+
+        if unique_key in existing_cards:
+            skipped_for_url += 1
+            continue
+        writer.writerow(data)
+        existing_cards.add(unique_key)
+        added_for_url += 1
+        total_new += 1
+
+        logger.info(f'Добавлен товар {data['id']}, {data['brand']},  {data['name']} Цена: {data['price']}, Рейтинг: {data['rating']}') 
+        csv_file.flush()
+        logger.info('По ссылке добавлено новых: ' + added_for_url+ ' пропущено уже существующих: '+ skipped_for_url) 
+logger.info('Парсинг завершен, всего новых товаров: ' + total_new)
+csv_file.close()
+driver.quit()
