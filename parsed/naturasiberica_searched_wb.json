@@ -1,0 +1,28 @@
+{
+    "error": {
+        "error_code": 18,
+        "error_msg": "User was deleted or banned",
+        "request_params": [
+            {
+                "key": "domain",
+                "value": "naturasiberica"
+            },
+            {
+                "key": "query",
+                "value": "WB"
+            },
+            {
+                "key": "v",
+                "value": "5.199"
+            },
+            {
+                "key": "method",
+                "value": "wall.search"
+            },
+            {
+                "key": "oauth",
+                "value": "1"
+            }
+        ]
+    }
+}
