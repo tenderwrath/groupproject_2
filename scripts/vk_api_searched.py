@@ -29,7 +29,11 @@ class vk_api_parser:
         return brand_url
 
     def save_to_json(self, data, group_domain):
+<<<<<<< HEAD
         filename = str(group_domain) + "_searched_wb.json" 
+=======
+        filename = "groupproject_2/parsed/" + str(group_domain) + "_searched_wb.json" 
+>>>>>>> bea99d9 (adding data+parser from vk api new!)
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
@@ -44,9 +48,15 @@ class vk_api_parser:
         self.save_to_json(data, group_domain)
         logging.info(f"Спарсили {self.brand}")
  
+<<<<<<< HEAD
 token = open("token.txt").read()
 brands = [] 
 with open("brands.txt") as f:
+=======
+token = open("groupproject_2/token.txt").read()
+brands = [] 
+with open("groupproject_2/brands.txt") as f:
+>>>>>>> bea99d9 (adding data+parser from vk api new!)
     for link in f:
         link = link.strip()
         brands.append(link) 

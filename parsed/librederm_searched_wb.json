@@ -1,0 +1,224 @@
+{
+    "response": {
+        "count": 3,
+        "items": [
+            {
+                "inner_type": "wall_wallpost",
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "can_view": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "type": "post",
+                "attachments": [],
+                "date": 1760608248,
+                "from_id": -59135141,
+                "header": {
+                    "photo": {
+                        "source_id": -59135141
+                    },
+                    "title": {
+                        "source_id": -59135141
+                    },
+                    "descriptions": [
+                        {
+                            "text": {
+                                "text": "прокомментировало"
+                            }
+                        },
+                        {
+                            "text": {
+                                "text": "пост сообщества Librederm Laboratories ",
+                                "color": {
+                                    "light": "2D81E0",
+                                    "dark": "529EF4"
+                                }
+                            },
+                            "action": {
+                                "type": "remote_action",
+                                "remote_action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://vk.com/wall-59135141_31422"
+                                }
+                            }
+                        }
+                    ],
+                    "date": 1760608248
+                },
+                "id": 31423,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -59135141,
+                "post_id": 31421,
+                "parents_stack": [
+                    31422
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "post_type": "reply",
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "text": "[id875566231|Lalenta], Здравствуйте! Благодарим за доверие нашему бренду! Приобрести продукцию можно на аптека.ру, на официальном сайте, на WB и OZON,  продавец ООО \"БИОФАРМРУС\". Ждем Вас за покупками!",
+                "track_code": "0xabcdefomdfZrMHkF8LJ5BXBSrKMYwpBTNHIio0wDhKLR1j-c0d2D1s5xOVTjhjqknjLohh6lLyUuNoZimINIBi-XTyW_hNhz_yJaZ-qG_4IOoy8ymmeLMuvCuaUexYeGu6X2ptpQ"
+            },
+            {
+                "inner_type": "wall_wallpost",
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "can_view": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "type": "post",
+                "attachments": [],
+                "date": 1756059705,
+                "from_id": -59135141,
+                "header": {
+                    "photo": {
+                        "source_id": -59135141
+                    },
+                    "title": {
+                        "source_id": -59135141
+                    },
+                    "descriptions": [
+                        {
+                            "text": {
+                                "text": "прокомментировало"
+                            }
+                        },
+                        {
+                            "text": {
+                                "text": "пост сообщества Librederm Laboratories ",
+                                "color": {
+                                    "light": "2D81E0",
+                                    "dark": "529EF4"
+                                }
+                            },
+                            "action": {
+                                "type": "remote_action",
+                                "remote_action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://vk.com/wall-59135141_31213"
+                                }
+                            }
+                        }
+                    ],
+                    "date": 1756059705
+                },
+                "id": 31215,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -59135141,
+                "post_id": 30082,
+                "parents_stack": [
+                    31213
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "post_type": "reply",
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "text": "[id183459905|Кристина], Здравствуйте! Благодарим доверие нашему бренду! Можно приобрести на WB и OZON,  продавец ООО \"БИОФАРМРУС\". Ждем Вас за покупками!",
+                "track_code": "0xabcdefomdfZrMHkF8LJ5BXBSrKMYwpBTNHIio0wDhKLR1j-c0d2D1s5xDFTjljqknjLohh6lLyUuNoZimINIBi-XTyW_hNhz_yJaZ-qG_4IOoy8ymmeLMuvCuaUexYeGuCsmptpQ"
+            },
+            {
+                "inner_type": "wall_wallpost",
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "can_view": 0,
+                    "count": 1
+                },
+                "marked_as_ads": 0,
+                "type": "post",
+                "attachments": [],
+                "date": 1738483935,
+                "from_id": -59135141,
+                "header": {
+                    "photo": {
+                        "source_id": -59135141
+                    },
+                    "title": {
+                        "source_id": -59135141
+                    },
+                    "descriptions": [
+                        {
+                            "text": {
+                                "text": "прокомментировало"
+                            }
+                        },
+                        {
+                            "text": {
+                                "text": "пост сообщества Librederm Laboratories ",
+                                "color": {
+                                    "light": "2D81E0",
+                                    "dark": "529EF4"
+                                }
+                            },
+                            "action": {
+                                "type": "remote_action",
+                                "remote_action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://vk.com/wall-59135141_30167"
+                                }
+                            }
+                        }
+                    ],
+                    "date": 1738483935
+                },
+                "id": 30187,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -59135141,
+                "post_id": 30167,
+                "parents_stack": [],
+                "post_source": {
+                    "type": "vk"
+                },
+                "post_type": "reply",
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "text": "Здравствуйте. Спасибо, что выбираете нашу продукцию🥰 Вы можете приобрести нашу продукцию на WB и OZON,  продавец ООО \"БИОФАРМРУС\". Ждем Вас за покупками!",
+                "track_code": "0xabcdefomdfZrMHkF8LJ5BXBSrKMYwpBTNHIio0wDhKLR1j-c0d2D1s5xzBTjpjqknjLohh6lLyUuNoZimINIBi-XTyW_hNhz_yJaZ-qG_4IOoy8ymmeLMuvCuaUexYeGvuM2ptpQ"
+            }
+        ]
+    }
+}
