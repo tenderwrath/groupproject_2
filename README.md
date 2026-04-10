@@ -53,7 +53,6 @@
 ### VK
 Данные из VK имеют структуру, которая описана в [Документации VK](https://dev.vk.com/ru/reference/objects/post)
 
-### VK (очищенные данные)
 Очищенные данные из VK находятся в файле [all_posts_clean.csv](./vk_eda/all_posts_clean.csv)
 
 | Название         | Описание                                    | Тип         
