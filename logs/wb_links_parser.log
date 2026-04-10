@@ -1,0 +1,295 @@
+2026-04-10 11:28:22 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2026-04-10 11:32:53 - WARNING - The chromedriver version (147.0.7727.56) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (146.0.7680.178); currently, chromedriver 146.0.7680.165 is recommended for chrome 146.*, so it is advised to delete the driver in PATH and retry
+2026-04-10 11:45:08 - WARNING - The chromedriver version (147.0.7727.56) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (146.0.7680.178); currently, chromedriver 146.0.7680.165 is recommended for chrome 146.*, so it is advised to delete the driver in PATH and retry
+2026-04-10 11:50:09 - INFO - Всего ссылок для обработки: 71
+2026-04-10 11:50:09 - INFO - Обрабатываем: clc.to/wPCPeA|https://clc.to/wPCPeA])
+2026-04-10 11:51:06 - INFO - Всего ссылок для обработки: 71
+2026-04-10 11:51:06 - INFO - Обрабатываем: clc.to/wPCPeA|https://clc.to/wPCPeA])
+2026-04-10 11:56:04 - INFO - Всего ссылок для обработки: 71
+2026-04-10 11:56:04 - INFO - Обрабатываем: https://clc.to/wPCPeA
+2026-04-10 11:56:43 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/brands/art-and-fact
+2026-04-10 11:56:43 - INFO - Обрабатываем: https://clc.to/SpQOHQ
+2026-04-10 11:57:27 - INFO - Артикул: 884634860, итоговый URL: https://www.wildberries.ru/catalog/884634860/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4638_02-04-2026
+2026-04-10 11:57:27 - INFO - Обрабатываем: https://vk.cc/cW35g2
+2026-04-10 11:57:54 - INFO - Артикул: 760104825, итоговый URL: https://www.wildberries.ru/catalog/760104825/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4635_31-03-2026
+2026-04-10 11:57:54 - INFO - Обрабатываем: https://vk.cc/cVU14O
+2026-04-10 11:57:59 - INFO - Артикул: 807378841, итоговый URL: https://www.wildberries.ru/catalog/807378841/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4633_26-03-2026
+2026-04-10 11:57:59 - INFO - Обрабатываем: https://vk.cc/cVOzit
+2026-04-10 11:58:03 - INFO - Артикул: 695213222, итоговый URL: https://www.wildberries.ru/catalog/695213222/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4630_24-03-2026
+2026-04-10 11:58:03 - INFO - Обрабатываем: https://vk.cc/cVMDzr
+2026-04-10 11:58:07 - INFO - Артикул: 695213222, итоговый URL: https://www.wildberries.ru/catalog/695213222/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4629_23-03-2026
+2026-04-10 11:58:07 - INFO - Обрабатываем: https://vk.cc/cVJ7wV
+2026-04-10 11:58:11 - INFO - Артикул: 760104825, итоговый URL: https://www.wildberries.ru/catalog/760104825/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4628_22-03-2026
+2026-04-10 11:58:11 - INFO - Обрабатываем: https://vk.cc/cVx1B4
+2026-04-10 11:58:15 - INFO - Артикул: 183006117, итоговый URL: https://www.wildberries.ru/catalog/183006117/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_ERR_4625_17-03-2026
+2026-04-10 11:58:15 - INFO - Обрабатываем: https://vk.cc/cVrjzB
+2026-04-10 11:58:19 - INFO - Артикул: 24704041, итоговый URL: https://www.wildberries.ru/catalog/24704041/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4624_14-03-2026
+2026-04-10 11:58:19 - INFO - Обрабатываем: https://vk.cc/cVnkS4
+2026-04-10 11:58:23 - INFO - Артикул: 499431775, итоговый URL: https://www.wildberries.ru/catalog/499431775/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4623_12-03-2026
+2026-04-10 11:58:23 - INFO - Обрабатываем: https://vk.cc/cVlnPR
+2026-04-10 11:58:27 - INFO - Артикул: 37937540, итоговый URL: https://www.wildberries.ru/catalog/37937540/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4622_11-03-2026
+2026-04-10 11:58:27 - INFO - Обрабатываем: https://vk.cc/cV71LG
+2026-04-10 11:58:31 - INFO - Артикул: 566983140, итоговый URL: https://www.wildberries.ru/catalog/566983140/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4617_05-03-2026
+2026-04-10 11:58:31 - INFO - Обрабатываем: https://vk.cc/cW7pjb
+2026-04-10 11:58:40 - INFO - Артикул: 289275878, итоговый URL: https://www.wildberries.ru/catalog/289275878/detail.aspx
+2026-04-10 11:58:40 - INFO - Обрабатываем: https://vk.cc/cVzgpi
+2026-04-10 11:58:44 - INFO - Артикул: 786748184, итоговый URL: https://www.wildberries.ru/catalog/786748184/detail.aspx
+2026-04-10 11:58:44 - INFO - Обрабатываем: https://vk.cc/cV6xZP
+2026-04-10 11:58:48 - INFO - Артикул: 832321708, итоговый URL: https://www.wildberries.ru/catalog/832321708/detail.aspx?targetUrl=GP&utm_source=syte_telegram_geli_&utm_medium=cpc&utm_campaign=28247-id-syte_vk_geli_050326_penka_uspokaivayushchaya_demoten
+2026-04-10 11:58:48 - INFO - Обрабатываем: https://vk.cc/cV3TdY
+2026-04-10 11:58:52 - INFO - Артикул: 832306103, итоговый URL: https://www.wildberries.ru/catalog/832306103/detail.aspx?utm_source=vk&utm_medium=geli&utm_campaign=anons_040326_seboreguliruyushchaya_penka_dlya_umyvaniya
+2026-04-10 11:58:52 - INFO - Обрабатываем: https://vk.cc/cUyDcR
+2026-04-10 11:58:56 - INFO - Артикул: 762468878, итоговый URL: https://www.wildberries.ru/catalog/762468878/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_krem_massazhnyi_300
+2026-04-10 11:58:56 - INFO - Обрабатываем: https://vk.cc/cTE8Rj
+2026-04-10 11:59:00 - INFO - Артикул: 656227565, итоговый URL: https://www.wildberries.ru/catalog/656227565/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_warm_bread
+2026-04-10 11:59:00 - INFO - Обрабатываем: https://vk.cc/cT9dKz
+2026-04-10 11:59:04 - INFO - Артикул: 628790457, итоговый URL: https://www.wildberries.ru/catalog/628790457/detail.aspx
+2026-04-10 11:59:04 - INFO - Обрабатываем: https://vk.cc/cT9dKz
+2026-04-10 11:59:08 - INFO - Артикул: 628790457, итоговый URL: https://www.wildberries.ru/catalog/628790457/detail.aspx
+2026-04-10 11:59:08 - INFO - Обрабатываем: https://vk.cc/cSLE2l
+2026-04-10 11:59:12 - INFO - Артикул: 681342549, итоговый URL: https://www.wildberries.ru/catalog/681342549/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_spicy_berries
+2026-04-10 11:59:12 - INFO - Обрабатываем: https://vk.cc/cSDXE5
+2026-04-10 11:59:16 - INFO - Артикул: 698972277, итоговый URL: https://www.wildberries.ru/catalog/698972277/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_hydra_biome
+2026-04-10 11:59:16 - INFO - Обрабатываем: https://vk.cc/cSvDyP
+2026-04-10 11:59:20 - INFO - Артикул: 679097136, итоговый URL: https://www.wildberries.ru/catalog/679097136/detail.aspx
+2026-04-10 11:59:20 - INFO - Обрабатываем: https://vk.cc/cS92uI
+2026-04-10 11:59:24 - INFO - Артикул: 582997621, итоговый URL: https://www.wildberries.ru/catalog/582997621/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_ampula_vremeni
+2026-04-10 11:59:24 - INFO - Обрабатываем: https://vk.cc/cRLtc1
+2026-04-10 11:59:28 - INFO - Артикул: 622186550, итоговый URL: https://www.wildberries.ru/catalog/622186550/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_retiderm_soft
+2026-04-10 11:59:28 - INFO - Обрабатываем: https://vk.cc/cR37vg
+2026-04-10 11:59:37 - INFO - Артикул: , итоговый URL: https://specials.wildberries.ru/promo/geltek_retinol?utm_source=plashka&utm_source=vk&utm_medium=geltek&utm_campaign=promo_061125
+2026-04-10 11:59:37 - INFO - Обрабатываем: https://vk.cc/cPjFMB
+2026-04-10 11:59:41 - INFO - Артикул: 498177646, итоговый URL: https://www.wildberries.ru/catalog/498177646/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_souyzmultfilm
+2026-04-10 11:59:41 - INFO - Обрабатываем: https://vk.cc/cOwlZB
+2026-04-10 11:59:45 - INFO - Артикул: 469666182, итоговый URL: https://www.wildberries.ru/catalog/469666182/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_kapli_avtozagar
+2026-04-10 11:59:45 - INFO - Обрабатываем: https://vk.cc/cNU7YE
+2026-04-10 11:59:49 - INFO - Артикул: 418066820, итоговый URL: https://www.wildberries.ru/catalog/418066820/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_soft_therapy
+2026-04-10 11:59:49 - INFO - Обрабатываем: https://vk.cc/cNdhaf
+2026-04-10 11:59:54 - INFO - Артикул: 436728210, итоговый URL: https://www.wildberries.ru/catalog/436728210/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-molochkoblackcassis
+2026-04-10 11:59:54 - INFO - Обрабатываем: https://vk.cc/cMV4uv
+2026-04-10 11:59:58 - INFO - Артикул: 404287157, итоговый URL: https://www.wildberries.ru/catalog/404287157/detail.aspx?utm_source=vk&utm_medium=cpc&utm_campaign=28247-id-barriermilky&utm_term=anons
+2026-04-10 11:59:58 - INFO - Обрабатываем: https://vk.cc/cMpWqB
+2026-04-10 12:00:02 - INFO - Артикул: 416083346, итоговый URL: https://www.wildberries.ru/catalog/416083346/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_pink_ivory
+2026-04-10 12:00:02 - INFO - Обрабатываем: https://vk.cc/cMkCcT
+2026-04-10 12:00:06 - INFO - Артикул: 411564671, итоговый URL: https://www.wildberries.ru/catalog/411564671/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_sun_shield_SPF_50
+2026-04-10 12:00:06 - INFO - Обрабатываем: https://vk.cc/cKVk97
+2026-04-10 12:00:50 - INFO - Артикул: , итоговый URL: https://geltek.ru/catalog/kosmetika/dlya-byuti-gurmanov/?utm_source=anons&utm_medium=180425
+2026-04-10 12:00:50 - INFO - Обрабатываем: https://vk.cc/cKRE3L
+2026-04-10 12:01:02 - INFO - Артикул: 344992982, итоговый URL: https://www.wildberries.ru/catalog/344992982/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-shampoo_postbiotik_30
+2026-04-10 12:01:02 - INFO - Обрабатываем: https://vk.cc/cKdFrG
+2026-04-10 12:01:07 - INFO - Артикул: 344988236, итоговый URL: https://www.wildberries.ru/catalog/344988236/detail.aspx?targetUrl=GP
+2026-04-10 12:01:07 - INFO - Обрабатываем: https://vk.cc/cJN8lm
+2026-04-10 12:01:11 - INFO - Артикул: 357241398, итоговый URL: https://www.wildberries.ru/catalog/357241398/detail.aspx?targetUrl=GP
+2026-04-10 12:01:11 - INFO - Обрабатываем: https://vk.cc/cJD7TE
+2026-04-10 12:01:15 - INFO - Артикул: 328169906, итоговый URL: https://www.wildberries.ru/catalog/328169906/detail.aspx?targetUrl=GP
+2026-04-10 12:01:15 - INFO - Обрабатываем: https://vk.cc/cIYgfR
+2026-04-10 12:01:19 - INFO - Артикул: 326980721, итоговый URL: https://www.wildberries.ru/catalog/326980721/detail.aspx?targetUrl=GP
+2026-04-10 12:01:19 - INFO - Обрабатываем: https://vk.cc/cIVwyb
+2026-04-10 12:01:23 - INFO - Артикул: 311659017, итоговый URL: https://www.wildberries.ru/catalog/311659017/detail.aspx?targetUrl=GP
+2026-04-10 12:01:23 - INFO - Обрабатываем: https://vk.cc/cIIPl5
+2026-04-10 12:01:27 - INFO - Артикул: 212806659, итоговый URL: https://www.wildberries.ru/catalog/212806659/detail.aspx?size=340179909
+2026-04-10 12:01:27 - INFO - Обрабатываем: https://vk.cc/cIAxUi
+2026-04-10 12:01:32 - INFO - Артикул: 311680638, итоговый URL: https://www.wildberries.ru/catalog/311680638/detail.aspx?targetUrl=GP
+2026-04-10 12:01:32 - INFO - Обрабатываем: https://vk.cc/cIyam9
+2026-04-10 12:01:36 - INFO - Артикул: 311649776, итоговый URL: https://www.wildberries.ru/catalog/311649776/detail.aspx?targetUrl=GP
+2026-04-10 12:01:36 - INFO - Обрабатываем: https://vk.cc/cIqWw6
+2026-04-10 12:02:20 - INFO - Артикул: , итоговый URL: https://geltek.ru/catalog/product/shampun-gipoallergennyy-sensitive-cleaning/?utm_source=anons&utm_medium=100225
+2026-04-10 12:02:20 - INFO - Обрабатываем: https://vk.cc/cHtC8F
+2026-04-10 12:02:24 - INFO - Артикул: 297534323, итоговый URL: https://www.wildberries.ru/catalog/297534323/detail.aspx
+2026-04-10 12:02:24 - INFO - Обрабатываем: https://vk.cc/cGnEYi
+2026-04-10 12:02:28 - INFO - Артикул: 301519288, итоговый URL: https://www.wildberries.ru/catalog/301519288/detail.aspx?targetUrl=GP
+2026-04-10 12:02:28 - INFO - Обрабатываем: https://vk.cc/cFUiiC
+2026-04-10 12:02:32 - INFO - Артикул: 293926766, итоговый URL: https://www.wildberries.ru/catalog/293926766/detail.aspx?targetUrl=GP
+2026-04-10 12:02:32 - INFO - Обрабатываем: https://vk.cc/aBTFaB
+2026-04-10 12:02:36 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/brands/geltek
+2026-04-10 12:02:36 - INFO - Обрабатываем: https://vk.cc/cwdzgr
+2026-04-10 12:02:41 - INFO - Артикул: 220363638, итоговый URL: https://www.wildberries.ru/catalog/220363638/detail.aspx?targetUrl=GP
+2026-04-10 12:02:41 - INFO - Обрабатываем: https://vk.cc/cCxAHc
+2026-04-10 12:02:45 - INFO - Артикул: 265293502, итоговый URL: https://www.wildberries.ru/catalog/265293502/detail.aspx?targetUrl=GP
+2026-04-10 12:02:45 - INFO - Обрабатываем: https://vk.cc/cCxAHc
+2026-04-10 12:02:49 - INFO - Артикул: 265293502, итоговый URL: https://www.wildberries.ru/catalog/265293502/detail.aspx?targetUrl=GP
+2026-04-10 12:02:49 - INFO - Обрабатываем: https://vk.cc/cz0s0Q
+2026-04-10 12:02:53 - INFO - Артикул: 152487382, итоговый URL: https://www.wildberries.ru/catalog/152487382/detail.aspx
+2026-04-10 12:02:53 - INFO - Обрабатываем: https://vk.cc/cvbFGJ
+2026-04-10 12:02:58 - INFO - Артикул: , итоговый URL: https://geltek.ru/catalog/product/maska-pitatelnaya-nourishing-cream-mask-the-u/?utm_source=geltek&utm_medium=060324
+2026-04-10 12:02:58 - INFO - Обрабатываем: https://vk.cc/cu52wh
+2026-04-10 12:03:08 - INFO - Артикул: , итоговый URL: https://geltek.ru/catalog/product/enzimnaya-pudra-dlya-umyvaniya-the-u/?utm_source=&utm_source=geltek&utm_medium=220124
+2026-04-10 12:03:08 - INFO - Обрабатываем: https://www.wildberries.ru/brands/geltek
+2026-04-10 12:03:12 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/brands/geltek
+2026-04-10 12:03:12 - INFO - Обрабатываем: https://vk.cc/cehqc2
+2026-04-10 12:03:16 - INFO - Артикул: 85647079, итоговый URL: https://www.wildberries.ru/catalog/85647079/detail.aspx?targetUrl=SP
+2026-04-10 12:03:16 - INFO - Обрабатываем: https://vk.cc/ceallj
+2026-04-10 12:03:20 - INFO - Артикул: 85647079, итоговый URL: https://www.wildberries.ru/catalog/85647079/detail.aspx
+2026-04-10 12:03:20 - INFO - Обрабатываем: https://vk.cc/cdlzY9
+2026-04-10 12:03:24 - INFO - Артикул: 76449807, итоговый URL: https://www.wildberries.ru/catalog/76449807/detail.aspx
+2026-04-10 12:03:24 - INFO - Обрабатываем: https://vk.cc/cd02wn
+2026-04-10 12:03:29 - INFO - Артикул: 17666304, итоговый URL: https://www.wildberries.ru/catalog/17666304/detail.aspx?targetUrl=XS
+2026-04-10 12:03:29 - INFO - Обрабатываем: https://www.wildberries.ru/seller/34634
+2026-04-10 12:03:32 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/seller/34634
+2026-04-10 12:03:32 - INFO - Обрабатываем: https://vk.cc/clo9Ls
+2026-04-10 12:03:36 - INFO - Артикул: 143518230, итоговый URL: https://www.wildberries.ru/catalog/143518230/detail.aspx
+2026-04-10 12:03:36 - INFO - Обрабатываем: https://vk.cc/clusaq
+2026-04-10 12:03:40 - INFO - Артикул: 143508166, итоговый URL: https://www.wildberries.ru/catalog/143508166/detail.aspx
+2026-04-10 12:03:40 - INFO - Обрабатываем: https://vk.cc/clo9Ls
+2026-04-10 12:03:44 - INFO - Артикул: 143518230, итоговый URL: https://www.wildberries.ru/catalog/143518230/detail.aspx
+2026-04-10 12:03:44 - INFO - Обрабатываем: https://vk.cc/clgCaM
+2026-04-10 12:03:59 - INFO - Артикул: 142821506, итоговый URL: https://www.wildberries.ru/catalog/142821506/detail.aspx
+2026-04-10 12:03:59 - INFO - Обрабатываем: https://vk.cc/cvcyua
+2026-04-10 12:04:03 - INFO - Артикул: , итоговый URL: https://geltek.ru/catalog/product/maska-pitatelnaya-nourishing-cream-mask-the-u/?utm_source=&utm_source=vktheu&utm_medium=060324
+2026-04-10 12:04:04 - INFO - Обрабатываем: https://vk.cc/cu59gm
+2026-04-10 12:04:33 - INFO - Артикул: , итоговый URL: https://the-u.ru/catalog/ochishchenie/enzimnaya-pudra-dlya-umyvaniya-the-u/?utm_source=&utm_source=vktheu&utm_medium=220124
+2026-04-10 12:04:33 - INFO - Обрабатываем: https://vk.cc/cVxsS4
+2026-04-10 12:05:10 - INFO - Артикул: 378918708, итоговый URL: https://www.wildberries.ru/catalog/378918708/detail.aspx?utm_source=VK&utm_medium=blog&utm_campaign=209838-id-.&utm_term=ARAVIA+professional&utm_content=%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9+%D0%B3%D0%B5%D0%BB%D1%8C+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+RETINOL+CARE%2C+250+%D0%BC%D0%BB
+2026-04-10 12:05:10 - INFO - Обрабатываем: https://vk.cc/cVp7bA
+2026-04-10 12:05:14 - INFO - Артикул: 51924124, итоговый URL: https://www.wildberries.ru/catalog/51924124/detail.aspx?targetUrl=GP&utm_source=VK&utm_medium=blog&utm_campaign=209838-id-Aravia&utm_term=ARAVIA_Professional&utm_content=%D0%9A%D1%80%D0%B5%D0%BC+%D0%B4%D0%BB%D1%8F+%D0%BB%D0%B8%D1%86%D0%B0+%D0%B8+%D1%82%D0%B5%D0%BB%D0%B0+%D1%83%D0%B2%D0%BB%D0%B0%D0%B6%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9+%D1%81+%D0%BC%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9+%D0%B8+%D1%86%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%D0%BC%D0%B8
+2026-04-10 12:05:14 - INFO - Обрабатываем: https://vk.cc/cSxXJQ
+2026-04-10 12:05:18 - INFO - Артикул: 16064709, итоговый URL: https://www.wildberries.ru/catalog/16064709/detail.aspx
+2026-04-10 12:05:18 - INFO - Обрабатываем: https://www.wildberries.ru/brands/16651-aravia-professional
+2026-04-10 12:05:21 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/brands/16651-aravia-professional
+2026-04-10 12:05:21 - INFO - Обрабатываем: https://www.wildberries.ru/brands/aravia-professional
+2026-04-10 12:05:25 - INFO - Артикул: , итоговый URL: https://www.wildberries.ru/brands/aravia-professional
+2026-04-10 12:05:25 - INFO - Парсинг завершен, обработано: 71
+2026-04-10 12:15:40 - INFO - Постов для обработки: 71
+2026-04-10 12:15:40 - INFO - Открываем https://clc.to/wPCPeA
+2026-04-10 12:16:38 - INFO - Готово. Артикул , URL https://www.wildberries.ru/brands/art-and-fact
+2026-04-10 12:16:38 - INFO - Открываем https://clc.to/SpQOHQ
+2026-04-10 12:16:47 - INFO - Готово. Артикул 884634860, URL https://www.wildberries.ru/catalog/884634860/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4638_02-04-2026
+2026-04-10 12:16:47 - INFO - Открываем https://vk.cc/cW35g2
+2026-04-10 12:17:25 - INFO - Готово. Артикул 760104825, URL https://www.wildberries.ru/catalog/760104825/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4635_31-03-2026
+2026-04-10 12:17:25 - INFO - Открываем https://vk.cc/cVU14O
+2026-04-10 12:17:29 - INFO - Готово. Артикул 807378841, URL https://www.wildberries.ru/catalog/807378841/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4633_26-03-2026
+2026-04-10 12:17:29 - INFO - Открываем https://vk.cc/cVOzit
+2026-04-10 12:17:33 - INFO - Готово. Артикул 695213222, URL https://www.wildberries.ru/catalog/695213222/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4630_24-03-2026
+2026-04-10 12:17:33 - INFO - Открываем https://vk.cc/cVMDzr
+2026-04-10 12:17:37 - INFO - Готово. Артикул 695213222, URL https://www.wildberries.ru/catalog/695213222/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4629_23-03-2026
+2026-04-10 12:17:37 - INFO - Открываем https://vk.cc/cVJ7wV
+2026-04-10 12:17:41 - INFO - Готово. Артикул 760104825, URL https://www.wildberries.ru/catalog/760104825/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4628_22-03-2026
+2026-04-10 12:17:41 - INFO - Открываем https://vk.cc/cVx1B4
+2026-04-10 12:17:45 - INFO - Готово. Артикул 183006117, URL https://www.wildberries.ru/catalog/183006117/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_ERR_4625_17-03-2026
+2026-04-10 12:17:45 - INFO - Открываем https://vk.cc/cVrjzB
+2026-04-10 12:17:50 - INFO - Готово. Артикул 24704041, URL https://www.wildberries.ru/catalog/24704041/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4624_14-03-2026
+2026-04-10 12:17:50 - INFO - Открываем https://vk.cc/cVnkS4
+2026-04-10 12:17:54 - INFO - Готово. Артикул 499431775, URL https://www.wildberries.ru/catalog/499431775/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4623_12-03-2026
+2026-04-10 12:17:54 - INFO - Открываем https://vk.cc/cVlnPR
+2026-04-10 12:17:58 - INFO - Готово. Артикул 37937540, URL https://www.wildberries.ru/catalog/37937540/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4622_11-03-2026
+2026-04-10 12:17:58 - INFO - Открываем https://vk.cc/cV71LG
+2026-04-10 12:18:02 - INFO - Готово. Артикул 566983140, URL https://www.wildberries.ru/catalog/566983140/detail.aspx?utm_source=vk&utm_medium=smm&utm_campaign=285068-id-smm_vk_artfact_4617_05-03-2026
+2026-04-10 12:18:02 - INFO - Открываем https://vk.cc/cW7pjb
+2026-04-10 12:18:12 - INFO - Готово. Артикул 289275878, URL https://www.wildberries.ru/catalog/289275878/detail.aspx
+2026-04-10 12:18:12 - INFO - Открываем https://vk.cc/cVzgpi
+2026-04-10 12:18:19 - INFO - Готово. Артикул 786748184, URL https://www.wildberries.ru/catalog/786748184/detail.aspx
+2026-04-10 12:18:19 - INFO - Открываем https://vk.cc/cV6xZP
+2026-04-10 12:18:23 - INFO - Готово. Артикул 832321708, URL https://www.wildberries.ru/catalog/832321708/detail.aspx?targetUrl=GP&utm_source=syte_telegram_geli_&utm_medium=cpc&utm_campaign=28247-id-syte_vk_geli_050326_penka_uspokaivayushchaya_demoten
+2026-04-10 12:18:23 - INFO - Открываем https://vk.cc/cV3TdY
+2026-04-10 12:18:28 - INFO - Готово. Артикул 832306103, URL https://www.wildberries.ru/catalog/832306103/detail.aspx?utm_source=vk&utm_medium=geli&utm_campaign=anons_040326_seboreguliruyushchaya_penka_dlya_umyvaniya
+2026-04-10 12:18:28 - INFO - Открываем https://vk.cc/cUyDcR
+2026-04-10 12:18:32 - INFO - Готово. Артикул 762468878, URL https://www.wildberries.ru/catalog/762468878/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_krem_massazhnyi_300
+2026-04-10 12:18:32 - INFO - Открываем https://vk.cc/cTE8Rj
+2026-04-10 12:18:36 - INFO - Готово. Артикул 656227565, URL https://www.wildberries.ru/catalog/656227565/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_warm_bread
+2026-04-10 12:18:36 - INFO - Открываем https://vk.cc/cT9dKz
+2026-04-10 12:18:40 - INFO - Готово. Артикул 628790457, URL https://www.wildberries.ru/catalog/628790457/detail.aspx
+2026-04-10 12:18:40 - INFO - Открываем https://vk.cc/cT9dKz
+2026-04-10 12:18:44 - INFO - Готово. Артикул 628790457, URL https://www.wildberries.ru/catalog/628790457/detail.aspx
+2026-04-10 12:18:44 - INFO - Открываем https://vk.cc/cSLE2l
+2026-04-10 12:18:48 - INFO - Готово. Артикул 681342549, URL https://www.wildberries.ru/catalog/681342549/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_spicy_berries
+2026-04-10 12:18:48 - INFO - Открываем https://vk.cc/cSDXE5
+2026-04-10 12:18:52 - INFO - Готово. Артикул 698972277, URL https://www.wildberries.ru/catalog/698972277/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_hydra_biome
+2026-04-10 12:18:52 - INFO - Открываем https://vk.cc/cSvDyP
+2026-04-10 12:18:56 - INFO - Готово. Артикул 679097136, URL https://www.wildberries.ru/catalog/679097136/detail.aspx
+2026-04-10 12:18:56 - INFO - Открываем https://vk.cc/cS92uI
+2026-04-10 12:19:00 - INFO - Готово. Артикул 582997621, URL https://www.wildberries.ru/catalog/582997621/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_ampula_vremeni
+2026-04-10 12:19:00 - INFO - Открываем https://vk.cc/cRLtc1
+2026-04-10 12:19:05 - INFO - Готово. Артикул 622186550, URL https://www.wildberries.ru/catalog/622186550/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_retiderm_soft
+2026-04-10 12:19:05 - INFO - Открываем https://vk.cc/cR37vg
+2026-04-10 12:19:14 - INFO - Готово. Артикул , URL https://specials.wildberries.ru/promo/geltek_retinol?utm_source=plashka&utm_source=vk&utm_medium=geltek&utm_campaign=promo_061125
+2026-04-10 12:19:14 - INFO - Открываем https://vk.cc/cPjFMB
+2026-04-10 12:19:18 - INFO - Готово. Артикул 498177646, URL https://www.wildberries.ru/catalog/498177646/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_souyzmultfilm
+2026-04-10 12:19:18 - INFO - Открываем https://vk.cc/cOwlZB
+2026-04-10 12:19:22 - INFO - Готово. Артикул 469666182, URL https://www.wildberries.ru/catalog/469666182/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_kapli_avtozagar
+2026-04-10 12:19:22 - INFO - Открываем https://vk.cc/cNU7YE
+2026-04-10 12:19:26 - INFO - Готово. Артикул 418066820, URL https://www.wildberries.ru/catalog/418066820/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_soft_therapy
+2026-04-10 12:19:26 - INFO - Открываем https://vk.cc/cNdhaf
+2026-04-10 12:19:30 - INFO - Готово. Артикул 436728210, URL https://www.wildberries.ru/catalog/436728210/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-molochkoblackcassis
+2026-04-10 12:19:30 - INFO - Открываем https://vk.cc/cMV4uv
+2026-04-10 12:19:34 - INFO - Готово. Артикул 404287157, URL https://www.wildberries.ru/catalog/404287157/detail.aspx?utm_source=vk&utm_medium=cpc&utm_campaign=28247-id-barriermilky&utm_term=anons
+2026-04-10 12:19:34 - INFO - Открываем https://vk.cc/cMpWqB
+2026-04-10 12:19:38 - INFO - Готово. Артикул 416083346, URL https://www.wildberries.ru/catalog/416083346/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_pink_ivory
+2026-04-10 12:19:38 - INFO - Открываем https://vk.cc/cMkCcT
+2026-04-10 12:19:43 - INFO - Готово. Артикул 411564671, URL https://www.wildberries.ru/catalog/411564671/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-syte_geltek_sun_shield_SPF_50
+2026-04-10 12:19:43 - INFO - Открываем https://vk.cc/cKVk97
+2026-04-10 12:21:03 - INFO - Готово. Артикул , URL https://geltek.ru/catalog/kosmetika/dlya-byuti-gurmanov/?utm_source=anons&utm_medium=180425
+2026-04-10 12:21:03 - INFO - Открываем https://vk.cc/cKRE3L
+2026-04-10 12:21:09 - INFO - Готово. Артикул 344992982, URL https://www.wildberries.ru/catalog/344992982/detail.aspx?targetUrl=GP&utm_source=syte_geltek&utm_medium=cpc&utm_campaign=28247-id-shampoo_postbiotik_30
+2026-04-10 12:21:09 - INFO - Открываем https://vk.cc/cKdFrG
+2026-04-10 12:21:13 - INFO - Готово. Артикул 344988236, URL https://www.wildberries.ru/catalog/344988236/detail.aspx?targetUrl=GP
+2026-04-10 12:21:13 - INFO - Открываем https://vk.cc/cJN8lm
+2026-04-10 12:21:17 - INFO - Готово. Артикул 357241398, URL https://www.wildberries.ru/catalog/357241398/detail.aspx?targetUrl=GP
+2026-04-10 12:21:17 - INFO - Открываем https://vk.cc/cJD7TE
+2026-04-10 12:21:21 - INFO - Готово. Артикул 328169906, URL https://www.wildberries.ru/catalog/328169906/detail.aspx?targetUrl=GP
+2026-04-10 12:21:21 - INFO - Открываем https://vk.cc/cIYgfR
+2026-04-10 12:21:25 - INFO - Готово. Артикул 326980721, URL https://www.wildberries.ru/catalog/326980721/detail.aspx?targetUrl=GP
+2026-04-10 12:21:25 - INFO - Открываем https://vk.cc/cIVwyb
+2026-04-10 12:21:29 - INFO - Готово. Артикул 311659017, URL https://www.wildberries.ru/catalog/311659017/detail.aspx?targetUrl=GP
+2026-04-10 12:21:29 - INFO - Открываем https://vk.cc/cIIPl5
+2026-04-10 12:21:33 - INFO - Готово. Артикул 212806659, URL https://www.wildberries.ru/catalog/212806659/detail.aspx?size=340179909
+2026-04-10 12:21:33 - INFO - Открываем https://vk.cc/cIAxUi
+2026-04-10 12:21:37 - INFO - Готово. Артикул 311680638, URL https://www.wildberries.ru/catalog/311680638/detail.aspx?targetUrl=GP
+2026-04-10 12:21:37 - INFO - Открываем https://vk.cc/cIyam9
+2026-04-10 12:21:41 - INFO - Готово. Артикул 311649776, URL https://www.wildberries.ru/catalog/311649776/detail.aspx?targetUrl=GP
+2026-04-10 12:21:41 - INFO - Открываем https://vk.cc/cIqWw6
+2026-04-10 12:22:21 - INFO - Готово. Артикул , URL https://geltek.ru/catalog/product/shampun-gipoallergennyy-sensitive-cleaning/?utm_source=anons&utm_medium=100225
+2026-04-10 12:22:21 - INFO - Открываем https://vk.cc/cHtC8F
+2026-04-10 12:23:22 - INFO - Готово. Артикул 297534323, URL https://www.wildberries.ru/catalog/297534323/detail.aspx
+2026-04-10 12:23:22 - INFO - Открываем https://vk.cc/cGnEYi
+2026-04-10 12:23:25 - INFO - Готово. Артикул 301519288, URL https://www.wildberries.ru/catalog/301519288/detail.aspx?targetUrl=GP
+2026-04-10 12:23:25 - INFO - Открываем https://vk.cc/cFUiiC
+2026-04-10 12:23:29 - INFO - Готово. Артикул 293926766, URL https://www.wildberries.ru/catalog/293926766/detail.aspx?targetUrl=GP
+2026-04-10 12:23:29 - INFO - Открываем https://vk.cc/aBTFaB
+2026-04-10 12:23:33 - INFO - Готово. Артикул , URL https://www.wildberries.ru/brands/geltek
+2026-04-10 12:23:33 - INFO - Открываем https://vk.cc/cwdzgr
+2026-04-10 12:23:37 - INFO - Готово. Артикул 220363638, URL https://www.wildberries.ru/catalog/220363638/detail.aspx?targetUrl=GP
+2026-04-10 12:23:37 - INFO - Открываем https://vk.cc/cCxAHc
+2026-04-10 12:23:42 - INFO - Готово. Артикул 265293502, URL https://www.wildberries.ru/catalog/265293502/detail.aspx?targetUrl=GP
+2026-04-10 12:23:42 - INFO - Открываем https://vk.cc/cCxAHc
+2026-04-10 12:23:45 - INFO - Готово. Артикул 265293502, URL https://www.wildberries.ru/catalog/265293502/detail.aspx?targetUrl=GP
+2026-04-10 12:23:45 - INFO - Открываем https://vk.cc/cz0s0Q
+2026-04-10 12:23:49 - INFO - Готово. Артикул 152487382, URL https://www.wildberries.ru/catalog/152487382/detail.aspx
+2026-04-10 12:23:49 - INFO - Открываем https://vk.cc/cvbFGJ
+2026-04-10 12:24:20 - INFO - Готово. Артикул , URL https://geltek.ru/catalog/product/maska-pitatelnaya-nourishing-cream-mask-the-u/?utm_source=geltek&utm_medium=060324
+2026-04-10 12:24:20 - INFO - Открываем https://vk.cc/cu52wh
+2026-04-10 12:24:46 - INFO - Готово. Артикул , URL https://geltek.ru/catalog/product/enzimnaya-pudra-dlya-umyvaniya-the-u/?utm_source=&utm_source=geltek&utm_medium=220124
+2026-04-10 12:24:46 - INFO - Открываем https://www.wildberries.ru/brands/geltek
+2026-04-10 12:25:20 - INFO - Готово. Артикул , URL https://www.wildberries.ru/brands/geltek
+2026-04-10 12:25:20 - INFO - Открываем https://vk.cc/cehqc2
+2026-04-10 12:25:24 - INFO - Готово. Артикул 85647079, URL https://www.wildberries.ru/catalog/85647079/detail.aspx?targetUrl=SP
+2026-04-10 12:25:24 - INFO - Открываем https://vk.cc/ceallj
+2026-04-10 12:25:28 - INFO - Готово. Артикул 85647079, URL https://www.wildberries.ru/catalog/85647079/detail.aspx
+2026-04-10 12:25:28 - INFO - Открываем https://vk.cc/cdlzY9
+2026-04-10 12:25:32 - INFO - Готово. Артикул 76449807, URL https://www.wildberries.ru/catalog/76449807/detail.aspx
+2026-04-10 12:25:32 - INFO - Открываем https://vk.cc/cd02wn
+2026-04-10 12:25:36 - INFO - Готово. Артикул 17666304, URL https://www.wildberries.ru/catalog/17666304/detail.aspx?targetUrl=XS
+2026-04-10 12:25:36 - INFO - Открываем https://www.wildberries.ru/seller/34634
+2026-04-10 12:25:39 - INFO - Готово. Артикул , URL https://www.wildberries.ru/seller/34634
+2026-04-10 12:25:39 - INFO - Открываем https://vk.cc/clo9Ls
+2026-04-10 12:25:43 - INFO - Готово. Артикул 143518230, URL https://www.wildberries.ru/catalog/143518230/detail.aspx
+2026-04-10 12:25:43 - INFO - Открываем https://vk.cc/clusaq
+2026-04-10 12:25:47 - INFO - Готово. Артикул 143508166, URL https://www.wildberries.ru/catalog/143508166/detail.aspx
+2026-04-10 12:25:47 - INFO - Открываем https://vk.cc/clo9Ls
+2026-04-10 12:25:52 - INFO - Готово. Артикул 143518230, URL https://www.wildberries.ru/catalog/143518230/detail.aspx
+2026-04-10 12:25:52 - INFO - Открываем https://vk.cc/clgCaM
+2026-04-10 12:25:55 - INFO - Готово. Артикул 142821506, URL https://www.wildberries.ru/catalog/142821506/detail.aspx
+2026-04-10 12:25:55 - INFO - Открываем https://vk.cc/cvcyua
+2026-04-10 12:26:42 - INFO - Готово. Артикул , URL https://geltek.ru/catalog/product/maska-pitatelnaya-nourishing-cream-mask-the-u/?utm_source=&utm_source=vktheu&utm_medium=060324
+2026-04-10 12:26:42 - INFO - Открываем https://vk.cc/cu59gm
+2026-04-10 12:27:34 - INFO - Готово. Артикул , URL https://the-u.ru/catalog/ochishchenie/enzimnaya-pudra-dlya-umyvaniya-the-u/?utm_source=&utm_source=vktheu&utm_medium=220124
+2026-04-10 12:27:34 - INFO - Открываем https://vk.cc/cVxsS4
+2026-04-10 12:28:18 - INFO - Готово. Артикул 378918708, URL https://www.wildberries.ru/catalog/378918708/detail.aspx?utm_source=VK&utm_medium=blog&utm_campaign=209838-id-.&utm_term=ARAVIA+professional&utm_content=%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9+%D0%B3%D0%B5%D0%BB%D1%8C+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+RETINOL+CARE%2C+250+%D0%BC%D0%BB
+2026-04-10 12:28:18 - INFO - Открываем https://vk.cc/cVp7bA
+2026-04-10 12:28:26 - INFO - Готово. Артикул 51924124, URL https://www.wildberries.ru/catalog/51924124/detail.aspx?targetUrl=GP&utm_source=VK&utm_medium=blog&utm_campaign=209838-id-Aravia&utm_term=ARAVIA_Professional&utm_content=%D0%9A%D1%80%D0%B5%D0%BC+%D0%B4%D0%BB%D1%8F+%D0%BB%D0%B8%D1%86%D0%B0+%D0%B8+%D1%82%D0%B5%D0%BB%D0%B0+%D1%83%D0%B2%D0%BB%D0%B0%D0%B6%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9+%D1%81+%D0%BC%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9+%D0%B8+%D1%86%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%D0%BC%D0%B8
+2026-04-10 12:28:26 - INFO - Открываем https://vk.cc/cSxXJQ
+2026-04-10 12:28:29 - INFO - Готово. Артикул 16064709, URL https://www.wildberries.ru/catalog/16064709/detail.aspx
+2026-04-10 12:28:29 - INFO - Открываем https://www.wildberries.ru/brands/16651-aravia-professional
+2026-04-10 12:28:33 - INFO - Готово. Артикул , URL https://www.wildberries.ru/brands/16651-aravia-professional
+2026-04-10 12:28:33 - INFO - Открываем https://www.wildberries.ru/brands/aravia-professional
+2026-04-10 12:28:36 - INFO - Готово. Артикул , URL https://www.wildberries.ru/brands/aravia-professional
+2026-04-10 12:28:36 - INFO - Готово. Обработано постов: 71
